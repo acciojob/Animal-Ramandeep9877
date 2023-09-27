@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	display:flex;
+	background-color:grey;
+	flex-wrap:wrap;
+	width:960px;
+	border-radius:20px
+}
+
+#photo-heading{
+	width:100%;
+	text-align:center;
+	color:white;
+	font-family:arial;
+}
+
+img{
+	padding:10px;
+	border-radius:20px;
+}
